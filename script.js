@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function covertToUppercase(){
+function convertToUppercase(){
 	// get the input element
 	let inputField = document.getElementById("fname");
 
